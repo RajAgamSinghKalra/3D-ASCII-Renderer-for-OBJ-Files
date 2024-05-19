@@ -39,6 +39,6 @@ Users can load any `.obj` file and see it rendered dynamically with support for 
 ![Alt text](https://i.imgur.com/vJN0VEi.gif)
 
 ## license
-- This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it.
 
 #### this is an old project from my old github which was hacked.
