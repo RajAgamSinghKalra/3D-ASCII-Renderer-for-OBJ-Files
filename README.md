@@ -34,9 +34,7 @@ Users can load any `.obj` file and see it rendered dynamically with support for 
 ## Demonstration
 - Here's a brief look at what rendering an OBJ file in ASCII looks like in the console: (obj from belnder's mesh collection!)
 
-![Alt text](https://i.imgur.com/vJvYzRd.gif) (gif takes some time loading.)
-
-![Alt text](https://i.imgur.com/vJN0VEi.gif)
+![gitpedaal](https://github.com/RajAgamSinghKalra/3D-ASCII-Renderer-for-OBJ-Files/assets/170209261/d7ef15fe-502d-4af9-bd8a-8827244ae497)
 
 ## license
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it.
